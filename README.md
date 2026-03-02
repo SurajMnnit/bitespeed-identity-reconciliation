@@ -126,5 +126,3 @@ Set `DATABASE_URL`, `NODE_ENV=production`, and `PORT` (usually 10000) in the Ren
 - **Admin Dashboard:** A UI to visualize the identity graph/clusters.
 
 ---
-**Author:** Backend Engineering Team
-**License:** ISC
